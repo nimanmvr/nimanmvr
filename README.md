@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Dear Readers
 - 👀 I’m interested in ... Data Science, Analytics,Machine Learning, Signal Processing, Computer Vision, Web Programming
 - 🌱 I’m currently learning ...New Languages(Programming Languages & French)
 - 💞️ I’m looking to collaborate on different project

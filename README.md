@@ -7,6 +7,62 @@
 - 📫 How to reach me ... If you would like to connect with me, the best way to reach me is through email or by phone.
 - Looking forward to connecting with you!
 
+# Skills
+
+A visual representation of my computer skills.
+
+## Technical Skills
+
+### Programming Languages
+
+#### Python
+
+- Proficient: 85%
+
+#### Java
+
+- Familiar: 70%
+
+### Front-End Development
+
+#### HTML/CSS
+
+- Proficient: 80%
+
+#### JavaScript
+
+- Familiar: 65%
+
+## Tools
+
+### Git
+
+- Proficient: 90%
+
+### Agile
+
+- Familiar: 75%
+
+## Additional Skills
+
+### Data Analysis
+
+- Proficient: 80%
+
+### Database Management
+
+- Familiar: 70%
+
+---
+
+<!-- skill-bars -->
+<p align="center">
+  <img src="https://github.com/yourname/yourrepo/blob/main/skills.png" alt="skill-bars">
+</p>
+
+<!-- skill-bars-end -->
+
+
 
 
 <!---

@@ -17,51 +17,57 @@ A visual representation of my computer skills.
 
 #### Python
 
-- Proficient: 85%
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-85%25-brightgreen" alt="Python proficiency">
+</p>
 
 #### Java
 
-- Familiar: 70%
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-70%25-yellowgreen" alt="Java familiarity">
+</p>
 
 ### Front-End Development
 
 #### HTML/CSS
 
-- Proficient: 80%
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML/CSS-80%25-blue" alt="HTML/CSS proficiency">
+</p>
 
 #### JavaScript
 
-- Familiar: 65%
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-65%25-yellow" alt="JavaScript familiarity">
+</p>
 
 ## Tools
 
 ### Git
 
-- Proficient: 90%
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-90%25-brightgreen" alt="Git proficiency">
+</p>
 
 ### Agile
 
-- Familiar: 75%
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-75%25-yellowgreen" alt="Agile familiarity">
+</p>
 
 ## Additional Skills
 
 ### Data Analysis
 
-- Proficient: 80%
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-80%25-brightgreen" alt="Data Analysis proficiency">
+</p>
 
 ### Database Management
 
-- Familiar: 70%
-
----
-
-<!-- skill-bars -->
 <p align="center">
-  <img src="https://github.com/yourname/yourrepo/blob/main/skills.png" alt="skill-bars">
+  <img src="https://img.shields.io/badge/Database%20Management-70%25-yellowgreen" alt="Database Management familiarity">
 </p>
-
-<!-- skill-bars-end -->
-
 
 
 
